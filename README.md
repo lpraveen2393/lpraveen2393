@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **lpraveen2393@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10ZHh5_goo410vdITXJWAUa61YudD2ky8/view?usp=drivesdk](https://drive.google.com/file/d/10ZHh5_goo410vdITXJWAUa61YudD2ky8/view?usp=drivesdk)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/15NDdd7gztWwvd9DcehAq58wfXUbw2xeL/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/praveen8819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen8819" height="30" width="40" /></a>
