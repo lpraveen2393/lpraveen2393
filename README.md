@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
-
-- 🔭 I’m currently working on **Cis benchmarking**
-
-- 🌱 I’m currently learning **Product development**
+<h1 align="center">Hi, I'm Praveen</h1>
+<h3 align="center">Passionate about building products for the world</h3>
 
 - 📫 How to reach me **lpraveen2393@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yaHjI99LuIlQKokI7dRaMOkhCraJlNEL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OShvJGcP3FvHYY59abiY9mreoOSA8v2E/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/praveen8819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen8819" height="30" width="40" /></a>
