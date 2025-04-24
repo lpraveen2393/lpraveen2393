@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **lpraveen2393@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UneFgkWKd4pXWM_pqbToBfCNQ6axdDLr/view?usp=sharin)
+- 📄Here is my resume [https://drive.google.com/file/d/1Uq8hZV0Cb8U31VDk-dzVySD_Bb7IoiMM/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/praveen8819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen8819" height="30" width="40" /></a>
