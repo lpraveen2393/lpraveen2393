@@ -1,20 +1,61 @@
-<h1 align="center">Hi, I'm Praveen</h1>
-<h3 align="center">Passionate about building products for the world</h3>
+<h1 align="center">👋 Hi, I'm Praveen</h1>
+<h3 align="center">Full-Stack Developer | Product Builder | ML Explorer</h3>
 
-- 📫 How to reach me **lpraveen2393@gmail.com**
+---
 
-- 📄Here is my resume [https://drive.google.com/file/d/1Uq8hZV0Cb8U31VDk-dzVySD_Bb7IoiMM/view?usp=sharing)
-<h3 align="left">Connect with me:</h3>
+### 🧑‍💻 About Me
+
+I'm a 3rd-year Computer Science Engineering student (specializing in Cybersecurity & Blockchain) passionate about building SaaS digital products. I enjoy creating innovative products and scalable backends, and I love exploring the intersection of technology, problem-solving, and user experience.
+
+📄 [Resume](https://drive.google.com/file/d/1UneFgkWKd4pXWM_pqbToBfCNQ6axdDLr/view?usp=sharing)  
+📫 Reach me: **lpraveen2393@gmail.com**
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages**  
+JavaScript, Python, C, C++
+
+**Frontend**  
+React.js, HTML5, CSS3, Bootstrap
+
+**Backend**  
+Node.js, Express.js, Django
+
+**Databases**  
+MongoDB, PostgreSQL
+
+**Tools & Platforms**  
+Git, GitHub, Postman, Streamlit
+
+---
+
+### 🧪 Featured Projects
+
+#### 🧠 Chat Toxicity & Manipulation Analyzer
+- Built a Streamlit-based web app that analyzes English chat history for toxic and manipulative patterns
+- Used NLP, TF-IDF, and Logistic Regression on 2,900+ labeled samples
+- Detects techniques like gaslighting, guilt-tripping, silent treatment, etc.
+- Repo: [Bondly](https://github.com/lpraveen2393/bondly)
+
+#### 🔐 CIS Benchmarking Tool
+- Automates Center for Internet Security (CIS) benchmarks for Linux system hardening
+- Checks and suggests fixes for common security misconfigurations
+- Scripted in Python with an easy-to-use CLI
+- **Note:** Code for this project cannot be shared as it is part of an internship project. A certificate for this internship is included in my resume.
+
+#### 🛠️ Duty Allocation Web App
+- Built under university guidance using the MERN stack
+- Role-based user login and duty scheduling
+- **Note:** This project is hosted on a private network, so I cannot share the code. A letter of recommendation for this project is included in my resume.
+
+---
+
+### 🤝 Let’s Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/praveen8819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen8819" height="30" width="40" /></a>
-<a href="https://instagram.com/pr.aveen8819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr.aveen8819" height="30" width="40" /></a>
+  <a href="mailto:lpraveen2393@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/praveen8819"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/pr.aveen8819"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-<!---
-lpraveen2393/lpraveen2393 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
