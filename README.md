@@ -43,7 +43,7 @@ Git, GitHub, Postman, Streamlit
 - Automates Center for Internet Security (CIS) benchmarks for Linux system hardening
 - Checks and suggests fixes for common security misconfigurations
 - Scripted in Python with an easy-to-use CLI
-- **Note:** Code for this project cannot be shared as it is part of an internship project. A certificate for this internship is included in my resume.
+- Repo: [CIS-BENCHMARKING](https://github.com/lpraveen2393/cis_benchmark_python)
 
 #### 🛠️ Duty Allocation Web App
 - Built under university guidance using the MERN stack
