@@ -5,9 +5,9 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 3rd-year Computer Science Engineering student (specializing in Cybersecurity & Blockchain) passionate about building SaaS digital products. I enjoy creating innovative products and scalable backends, and I love exploring the intersection of technology, problem-solving, and user experience.
+I'm a final year Computer Science Engineering student (specializing in Cybersecurity & Blockchain) passionate about building SaaS digital products. I enjoy creating innovative products and scalable backends, and I love exploring the intersection of technology, problem-solving, and user experience.
 
-📄 [Resume](https://drive.google.com/file/d/1_Oj5j8mNZcjA0xIvVUUAt0FUNKqN5jTd/view?usp=sharing)  
+
 📫 Reach me: **lpraveen2393@gmail.com**
 
 ---
