@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Praveen</h1>
-<h3 align="center">Full-Stack Developer | Product Builder | ML Explorer</h3>
+<h3 align="center">Product Enthusiast | ML Explorer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a final year Computer Science Engineering student (specializing in Cybersecurity & Blockchain) passionate about building SaaS digital products. I enjoy creating innovative products and scalable backends, and I love exploring the intersection of technology, problem-solving, and user experience.
+I'm a final year Computer Science Engineering student (specializing in Cybersecurity & Blockchain) passionate about building SaaS products. I enjoy creating innovative products and scalable backends, and I love exploring the intersection of technologies.
 
 
 📫 Reach me: **lpraveen2393@gmail.com**
@@ -33,14 +33,14 @@ Git, GitHub, Postman, Streamlit
 
 ### 🧪 Featured Projects
 
-#### 🧠 Chat Toxicity & Manipulation Analyzer
+#### 🧠 BtwntheLines
 - Built a Streamlit-based web app that analyzes English chat history for toxic and manipulative patterns
 - Used NLP, TF-IDF, and Logistic Regression on 2,900+ labeled samples
 - Detects techniques like gaslighting, guilt-tripping, silent treatment, etc.
 - Repo: [Bondly](https://github.com/lpraveen2393/bondly)
 
 #### 🔐 CIS Benchmarking Tool
-- Automates Center for Internet Security (CIS) benchmarks for Linux system hardening
+- Automates Center for Internet Security (CIS) benchmarks for Linux system 
 - Checks and suggests fixes for common security misconfigurations
 - Scripted in Python with an easy-to-use CLI
 - Repo: [CIS-BENCHMARKING](https://github.com/lpraveen2393/cis_benchmark_python)
